@@ -44,9 +44,9 @@ body {
 
 .header__paragraf {
   margin: 0;
-  font-weight: 400;
+  font-weight: 100;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.2;
   font-family: "Helvetica Neue";
   align-items: center;
 }
