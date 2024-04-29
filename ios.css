@@ -17,14 +17,14 @@ body {
   column-gap: 20px;
   row-gap: 10px;
   border-radius: 20px;
-  padding: 20px;
+  padding: 15px;
   background-color: #ffffff;
 }
 
 .header__textContainer {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 0.1px;
 }
 
 .header__avatar {
@@ -38,6 +38,15 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 1.2;
+  font-family: "Helvetica Neue";
+  align-items: center;
+}
+
+.header__paragraf {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.7;
   font-family: "Helvetica Neue";
   align-items: center;
 }
